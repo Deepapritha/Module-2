@@ -2,36 +2,36 @@
 ## ITERATIVE STATEMENTS – PRINTING N NATURAL NUMBERS
 
 ###  Aim
-To create a Python program for printing `n` natural numbers using a `for` loop.
+To create a Python Program to print numbers  range from M to N (including M and N values)
 
----
 
 ###  Algorithm
 
 1. Begin the program.
-2. Use `input()` to read the value of `n` (the upper limit) from the user.
-3. Convert the input to an integer.
-4. Display the message **"Natural Numbers are :"**.
-5. Use a `for` loop to iterate from 1 to `n` (inclusive).
-6. In each iteration, print the current value of `i`.
-7. Terminate the program.
+2. Use `input()` to read the value of `m` and  `n` from the user.
+3. Convert the inputs to integers.
+4. Use a `for` loop to iterate from `m` to `n` (inclusive).
+5. In each iteration, print the current value of `i`.
+6. Terminate the program.
 
 ---
 
 ### 🧾 Program
 
-```python
-#Reg.NO
-#Name
-#Write your Code here
+```
+M = int(input())
+N = int(input())
+for i in range(M,N+1):
+    print(i)
 
 ```
 ### OUTPUT
 ```
+![image](https://github.com/user-attachments/assets/b7d34ca4-1d33-461f-b6bb-0f09f660cd8f)
 
 ```
 ### RESULT
 ```
-
+Thus the python program for printing numbers range from `m` to `n` is executed successfully.
 ```
 
