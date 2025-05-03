@@ -7,7 +7,7 @@ To Write a program in python to compute whether the given number is a palindrome
 ---
 
 ### ALGORITHM
-
+ 
 1. Begin the program.  
 2. Read the number `num` from the user using `input()`.  
 3. Copy the value of num into another variable called temp.
