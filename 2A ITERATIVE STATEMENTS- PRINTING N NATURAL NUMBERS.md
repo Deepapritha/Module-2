@@ -27,11 +27,11 @@ for i in range(M,N+1):
 ```
 ### OUTPUT
 ```
- ![image](https://github.com/user-attachments/assets/9ee4c252-f4cc-4afb-9c06-874b4a80e62d)
+![image](https://github.com/user-attachments/assets/b7570eab-2bee-42a0-87a9-5c914b68ef6e)
 
 ```
 ### RESULT
 ```
-Thus the python program for printing numbers range from `m` to `n` is executed successfully.
+Thus, the python program for printing numbers range from `m` to `n` is executed successfully.
 ```
 
