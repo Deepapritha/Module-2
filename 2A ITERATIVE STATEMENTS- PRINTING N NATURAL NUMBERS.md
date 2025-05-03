@@ -27,8 +27,8 @@ for i in range(M,N+1):
 ```
 ### OUTPUT
 ```
-![image](https://github.com/user-attachments/assets/b7570eab-2bee-42a0-87a9-5c914b68ef6e)
-
+![image](https://github.com/user-attachments/assets/c790c529-98de-4a52-a542-ad09e0fe783c)
+ 
 ```
 ### RESULT
 ```
