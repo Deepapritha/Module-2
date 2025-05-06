@@ -7,11 +7,12 @@ To Write a program in python to compute whether the given number is a palindrome
 ---
 
 ### ALGORITHM
- 
+ Reg no: 212223090002
+ Name: Deepapritha A
 1. Begin the program.  
 2. Read the number `num` from the user using `input()`.  
 3. Copy the value of num into another variable called temp.
-4.Set a variable rev (reverse) to 0 and Repeat the following steps while temp is greater than 0:
+4.Set a variable rev (reverse) to 0 and Repeat the following steps while temp is greater than 0
 5. Get the last digit of temp using temp % 10.
     Multiply rev by 10 and add the last digit to it.
     Remove the last digit from temp using integer division (temp = temp // 10).  
